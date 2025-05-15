@@ -4,16 +4,6 @@
 
 ---
 
-## 📌 What This Project Does
-
-This system allows a user to:
-- Type a natural language instruction (e.g., "Create a function that calculates the factorial of a number")
-- Process the instruction using **NLP**
-- Generate Python code or low-level LLVM IR
-- Display the output code in a web-based interface
-
----
-
 ## 🌟 Features
 
 ✅ Converts plain English into code  
